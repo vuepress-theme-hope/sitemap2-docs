@@ -1,0 +1,7 @@
+User-agent:*
+Disallow:
+
+User-agent:*
+Disallow:
+
+Sitemap: https://plugin-sitemap2.vuejs.press/sitemap.xml
